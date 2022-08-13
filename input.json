@@ -1,0 +1,27 @@
+{
+    "name": "Rabbit Whole 🐇🕳",
+    "overview": "This collection contains packages that help to reuse code.",
+    "author": {
+        "name": "Łukasz Stocki"
+    },
+    "keywords": [
+        "favorite", "bootstrap"
+    ],
+    "packages": [
+        {
+            "url": "https://github.com/sloik/AliasWonderland"
+        },
+        {
+            "url": "https://github.com/sloik/Zippy"
+        },
+        {
+            "url": "https://github.com/sloik/OptionalAPI"
+        },
+        {
+            "url": "https://github.com/sloik/EitherSwift"
+        },
+        {
+            "url": "https://github.com/sloik/FunctionalAPI"
+        }
+    ]
+}
