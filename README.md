@@ -1,5 +1,5 @@
 # 🐇🕳 Rabbit Hole 
-Collection connoting many utils packages useful  with Swift development.
+Collection containing many utils packages useful  with Swift development.
 
 # 🏗 Installation
 
