@@ -48,3 +48,12 @@ Fallow steps to install but just select colection and tap minus button.
 ```bash
 swift package-collection remove https://raw.githubusercontent.com/sloik/RabbitHole/main/collection.json
 ```
+
+# Generation
+
+Update `input.json` with desired packages and run:
+
+```bash
+package-collection-generate input.json ./output.json
+```
+Rename the file to `collection.json` and you are done 😎
