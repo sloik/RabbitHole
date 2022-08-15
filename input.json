@@ -19,6 +19,9 @@
         },
         {
             "url": "https://github.com/sloik/EitherSwift"
+        },
+        {
+            "url": "https://github.com/sloik/FunctionalAPI"
         }
     ]
 }
