@@ -11,13 +11,13 @@ Collection containing many utils packages useful  with Swift development.
 
 ![AddPackage](https://github.com/sloik/RabbitHole/blob/main/img/rabbit-01.png?raw=true)
 
-### Enter url containig `json` with packages in the collection:
+### Enter url containing `json` with packages in the collection:
 
 `https://raw.githubusercontent.com/sloik/RabbitHole/main/collection.json` 
 
 ![Enter collection url](https://github.com/sloik/RabbitHole/blob/main/img/rabbit-02.png?raw=true)
 
-Collection is not signed but you cant trust me 😇
+Collection is not signed, but you can trust me 😇
 
 ### Marvel at the collection Xcode
 
@@ -41,7 +41,7 @@ swift package-collection refresh
 
 ### Xcode
 
-Fallow steps to install but just select colection and tap minus button.
+Follow steps to install but just select collection and tap minus button.
 
 ### Terminal
 
